@@ -3,6 +3,13 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
+I feel like I did good on the first two assignments.
+
 - What did you learn that was a shock or surprise?
+Honestly all of it is kind of a surprise to me cause I have zero code xp.
+
 - What are you struggling with?
+I'm struggling with a little bit of everything, but mainly bootstraps grid system and also getting stuff aligned right.
+
 - What would you count as a victory?
+Passing the first Checkpoint coming up.
