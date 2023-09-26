@@ -12,4 +12,5 @@ Honestly all of it is kind of a surprise to me cause I have zero code xp.
 I'm struggling with a little bit of everything, but mainly bootstraps grid system and also getting stuff aligned right.
 
 - What would you count as a victory?
-Passing the first Checkpoint coming up.
+Passing the first Checkpoint coming up. 
+<!-- I aced the checkpoint! -->

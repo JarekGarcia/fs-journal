@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | Let, var and const |
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | a subprogram designed to perform a particular task |
 
 03. What are the `SOLID` principles?
 
