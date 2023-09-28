@@ -9,7 +9,12 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | Single responsible principle (srp)
+    Open closed principle (ocp)
+    Liskov substitute principle (lsp)
+    Interface segregation principle (isp)
+    Dependency inversion principle (dip)
+     |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +22,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | fruit.splice(2,1); |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,24 +39,49 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | const friend = [
+    {
+        name: 'bob'
+    },
+
+    {
+        name: 'joe'
+    }
+]
+
+let you = {
+    name: "You",
+    hair: true,
+    friends: [friend]
+}
+let them = {
+    name: "Them",
+    hair: false,
+    friends: [friend],
+} |
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | If(bob >= joe){
+        return true
+    } else{
+        return false
+    } |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | Parameters are variables declared inside of a function and arguments are the values of the variable that gets passed to the function |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | Using the developer tools |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | Primitive values are values stored independently outside of a function and Reference values are values stored inside a function that are called within that specific function only. |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | for(let i = -100; i <= 100; i++){
+        console.log (i)
+    } |
