@@ -39,7 +39,7 @@
     }
     ```
 
-    > | const friend = [
+    > | const friends = [
     {
         name: 'bob'
     },
@@ -52,12 +52,12 @@
 let you = {
     name: "You",
     hair: true,
-    friends: [friend]
+    friends: [friends]
 }
 let them = {
     name: "Them",
     hair: false,
-    friends: [friend],
+    friends: [friends]
 } |
 
 06. Give an example of a JavaScript `Conditional`:
