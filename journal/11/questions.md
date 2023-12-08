@@ -51,7 +51,7 @@
 
     this will pull out all the patients for the doctor with the id of 1...
 
-    alternative answer would be just in case you needed this version:
+    alternative answer would be just in case you needed this version in c# would be something like this:
     internal List<Patient> GetPatientsByDoctorId(int doctorId)
     {
     string sql = @"
